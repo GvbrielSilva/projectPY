@@ -1,4 +1,4 @@
-# Project Python steps
+# Project Python + Flask steps 
 
 - python -m venv ambvir
 - cd ambvir
