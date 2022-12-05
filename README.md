@@ -1,6 +1,4 @@
-# rpg-manager
-
-Step-by-step to install the dependencies into the virtual ambient and run the project.
+# Project Python steps
 
 - python -m venv ambvir
 - cd ambvir
